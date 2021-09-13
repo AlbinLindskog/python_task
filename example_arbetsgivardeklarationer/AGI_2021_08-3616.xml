@@ -1,47 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Skatteverket xmlns="http://xmls.skatteverket.se/se/skatteverket/da/instans/schema/1.1" xmlns:agd="http://xmls.skatteverket.se/se/skatteverket/da/komponent/schema/1.1">
-  <agd:Blankett>
-    <agd:Arendeinformation>
-      <agd:Arendeagare>165590703616</agd:Arendeagare>
-      <agd:Period>202108</agd:Period>
-    </agd:Arendeinformation>
-    <agd:Blankettinnehall>
-      <agd:Huvuduppgift>
-        <agd:SummaArbAvgSlf faltkod="487">2500</agd:SummaArbAvgSlf>
-        <agd:SummaSkatteavdr faltkod="497">3000</agd:SummaSkatteavdr>
-      </agd:Huvuduppgift>
-    </agd:Blankettinnehall>
-  </agd:Blankett>
-  <agd:Blankett>
-    <agd:Arendeinformation>
-      <agd:Arendeagare>165590703616</agd:Arendeagare>
-      <agd:Period>202108</agd:Period>
-    </agd:Arendeinformation>
-    <agd:Blankettinnehall>
-      <agd:Individuppgift>
-        <agd:BetalningsmottagarId faltkod="215">197909172244</agd:BetalningsmottagarId>
-        <agd:AvdrPrelSkatt faltkod="001">2000</agd:AvdrPrelSkatt>
-        <agd:KontantErsattningUlagAG faltkod="011">6000</agd:KontantErsattningUlagAG>
-        <agd:UnderlagRutarbete faltkod="021">0</agd:UnderlagRutarbete>
-        <agd:UnderlagRotarbete faltkod="022">0</agd:UnderlagRotarbete>
-        <agd:Tjanstepension faltkod="030">100</agd:Tjanstepension>
-      </agd:Individuppgift>
-    </agd:Blankettinnehall>
-  </agd:Blankett>
-  <agd:Blankett>
-    <agd:Arendeinformation>
-      <agd:Arendeagare>165590703616</agd:Arendeagare>
-      <agd:Period>202108</agd:Period>
-    </agd:Arendeinformation>
-    <agd:Blankettinnehall>
-      <agd:Individuppgift>
-        <agd:BetalningsmottagarId faltkod="215">197008193844</agd:BetalningsmottagarId>
-        <agd:AvdrPrelSkatt faltkod="001">1000</agd:AvdrPrelSkatt>
-        <agd:KontantErsattningUlagAG faltkod="011">3000</agd:KontantErsattningUlagAG>
-        <agd:UnderlagRutarbete faltkod="021">0</agd:UnderlagRutarbete>
-        <agd:UnderlagRotarbete faltkod="022">0</agd:UnderlagRotarbete>
-        <agd:Tjanstepension faltkod="030">0</agd:Tjanstepension>
-      </agd:Individuppgift>
-    </agd:Blankettinnehall>
-  </agd:Blankett>
+<Skatteverket>
+  <Blankett>
+    <Arendeinformation>
+      <Arendeagare>165590703616</Arendeagare>
+      <Period>202108</Period>
+    </Arendeinformation>
+    <Blankettinnehall>
+      <Huvuduppgift>
+        <SummaArbAvgSlf faltkod="487">2500</SummaArbAvgSlf>
+        <SummaSkatteavdr faltkod="497">3000</SummaSkatteavdr>
+      </Huvuduppgift>
+    </Blankettinnehall>
+  </Blankett>
+  <Blankett>
+    <Arendeinformation>
+      <Arendeagare>165590703616</Arendeagare>
+      <Period>202108</Period>
+    </Arendeinformation>
+    <Blankettinnehall>
+      <Individuppgift>
+        <BetalningsmottagarId faltkod="215">197909172244</BetalningsmottagarId>
+        <KontantErsattningUlagAG faltkod="011">6000</KontantErsattningUlagAG>
+        <AvdrPrelSkatt faltkod="001">2000</AvdrPrelSkatt>
+        <UnderlagRutarbete faltkod="021">0</UnderlagRutarbete>
+        <UnderlagRotarbete faltkod="022">0</UnderlagRotarbete>
+        <Tjanstepension faltkod="030">100</Tjanstepension>
+      </Individuppgift>
+    </Blankettinnehall>
+  </Blankett>
+  <Blankett>
+    <Arendeinformation>
+      <Arendeagare>165590703616</Arendeagare>
+      <Period>202108</Period>
+    </Arendeinformation>
+    <Blankettinnehall>
+      <Individuppgift>
+        <BetalningsmottagarId faltkod="215">197008193844</BetalningsmottagarId>
+        <KontantErsattningUlagAG faltkod="011">3000</KontantErsattningUlagAG>
+        <AvdrPrelSkatt faltkod="001">1000</AvdrPrelSkatt>
+        <UnderlagRutarbete faltkod="021">0</UnderlagRutarbete>
+        <UnderlagRotarbete faltkod="022">0</UnderlagRotarbete>
+        <Tjanstepension faltkod="030">0</Tjanstepension>
+      </Individuppgift>
+    </Blankettinnehall>
+  </Blankett>
 </Skatteverket>
