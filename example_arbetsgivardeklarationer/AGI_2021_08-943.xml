@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Skatteverket omrade="Arbetsgivardeklaration" xmlns="http://xmls.skatteverket.se/se/skatteverket/da/instans/schema/1.1" xmlns:agd="http://xmls.skatteverket.se/se/skatteverket/da/komponent/schema/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmls.skatteverket.se/se/skatteverket/da/instans/schema/1.1 http://xmls.skatteverket.se/se/skatteverket/da/arbetsgivardeklaration/arbetsgivardeklaration_1.1.xsd">
+  <agd:Blankett>
+    <agd:Arendeinformation>
+      <agd:Arendeagare>165590703616</agd:Arendeagare>
+      <agd:Period>202108</agd:Period>
+    </agd:Arendeinformation>
+    <agd:Blankettinnehall>
+      <agd:Huvuduppgift>
+        <agd:RedovisningsPeriod faltkod="006">202108</agd:RedovisningsPeriod>
+        <agd:SummaArbAvgSlf faltkod="487">3200</agd:SummaArbAvgSlf>
+        <agd:SummaSkatteavdr faltkod="497">2540</agd:SummaSkatteavdr>
+      </agd:Huvuduppgift>
+    </agd:Blankettinnehall>
+  </agd:Blankett>
+  <agd:Blankett>
+    <agd:Arendeinformation>
+      <agd:Arendeagare>165590703616</agd:Arendeagare>
+      <agd:Period>202108</agd:Period>
+    </agd:Arendeinformation>
+    <agd:Blankettinnehall>
+      <agd:Individuppgift>
+        <agd:BetalningsmottagarId faltkod="215">199705306190</agd:BetalningsmottagarId>
+        <agd:KontantErsattningEjUlagSA faltkod="131">800</agd:KontantErsattningEjUlagSA>
+        <agd:AvdrPrelSkatt faltkod="001">240</agd:AvdrPrelSkatt>
+      </agd:Individuppgift>
+    </agd:Blankettinnehall>
+  </agd:Blankett>
+  <agd:Blankett>
+    <agd:Arendeinformation>
+      <agd:Arendeagare>165590703616</agd:Arendeagare>
+      <agd:Period>202108</agd:Period>
+    </agd:Arendeinformation>
+    <agd:Blankettinnehall>
+      <agd:Individuppgift>
+        <agd:BetalningsmottagarId faltkod="215">197909172244</agd:BetalningsmottagarId>
+        <agd:KontantErsattningUlagAG faltkod="011">4000</agd:KontantErsattningUlagAG>
+        <agd:AvdrPrelSkatt faltkod="001">1300</agd:AvdrPrelSkatt>
+      </agd:Individuppgift>
+    </agd:Blankettinnehall>
+  </agd:Blankett>
+  <agd:Blankett>
+    <agd:Arendeinformation>
+      <agd:Arendeagare>165590703616</agd:Arendeagare>
+      <agd:Period>202108</agd:Period>
+    </agd:Arendeinformation>
+    <agd:Blankettinnehall>
+      <agd:Individuppgift>
+        <agd:BetalningsmottagarId faltkod="215">197707280348</agd:BetalningsmottagarId>
+        <agd:KontantErsattningUlagAG faltkod="011">600</agd:KontantErsattningUlagAG>
+        <agd:AvdrPrelSkatt faltkod="001">200</agd:AvdrPrelSkatt>
+      </agd:Individuppgift>
+    </agd:Blankettinnehall>
+  </agd:Blankett>
+  <agd:Blankett>
+    <agd:Arendeinformation>
+      <agd:Arendeagare>165590703616</agd:Arendeagare>
+      <agd:Period>202108</agd:Period>
+    </agd:Arendeinformation>
+    <agd:Blankettinnehall>
+      <agd:Individuppgift>
+        <agd:BetalningsmottagarId faltkod="215">195907314271</agd:BetalningsmottagarId>
+        <agd:KontantErsattningUlagAG faltkod="011">3000</agd:KontantErsattningUlagAG>
+        <agd:AvdrPrelSkatt faltkod="001">900</agd:AvdrPrelSkatt>
+      </agd:Individuppgift>
+    </agd:Blankettinnehall>
+  </agd:Blankett>
+</Skatteverket>
